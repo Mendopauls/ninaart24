@@ -21,11 +21,17 @@ Stato: pianificazione. Nessun prodotto Printful modificato o pubblicato.
 
 **Nome prodotto proposto:** `MEDUSA / GREEN — Art Print`
 
+**Modello Printful proposto:** `Enhanced Matte Paper Poster`.
+
+**Riferimento prezzo Printful verificato 26-09-2026:** da circa €6,79 IVA inclusa, stampa inclusa; prezzo effettivo variabile per formato e località di fulfillment.
+
+**Formato V1 proposto:** A2 (42 × 59,4 cm). Valutare A1 solo in seconda fase.
+
 **Descrizione breve:**
 > Una reinterpretazione originale di Medusa costruita tra linee nette, volumi e dettagli organici. Il verde diventa l'unico accento cromatico e porta lo sguardo al centro della composizione.
 
 **Impostazione iniziale:**
-- 1 formato principale, da definire dopo verifica Printful;
+- 1 solo formato al lancio;
 - carta opaca/matte;
 - orientamento verticale;
 - niente cornice nella V1.
@@ -48,6 +54,12 @@ Stato: pianificazione. Nessun prodotto Printful modificato o pubblicato.
 **Perché:** line art leggibile, silhouette centrale forte, accento giallo limitato e riconoscibile; può diventare una grafica da abbigliamento dopo pulizia e separazione dallo sfondo.
 
 **Nome prodotto proposto:** `ROBOT / YELLOW — Unisex Tee`
+
+**Modello Printful proposto:** `Bella + Canvas 3001 — Unisex Staple T-Shirt`.
+
+**Tecnica proposta:** DTG, stampa frontale.
+
+**Riferimento prezzo Printful verificato 26-09-2026:** circa €12,66 IVA inclusa con una stampa inclusa; prezzo effettivo variabile per colore, taglia e fulfillment.
 
 **Descrizione breve:**
 > Un robot danneggiato, fermo nel mezzo della scena, circondato da fiamme e frammenti. Linee nere, segni materici e un unico accento giallo danno alla grafica un carattere diretto da sketchbook.
@@ -78,6 +90,12 @@ Stato: pianificazione. Nessun prodotto Printful modificato o pubblicato.
 
 **Nome prodotto proposto:** `ANDROID / CYAN — Back Print Hoodie`
 
+**Modello Printful proposto:** `Cotton Heritage M2580 — Unisex Premium Pullover Hoodie`.
+
+**Tecnica proposta:** DTG, stampa posteriore grande.
+
+**Riferimento prezzo Printful verificato 26-09-2026:** circa €26,23 IVA inclusa con una stampa inclusa; prezzo effettivo variabile per colore, taglia e fulfillment.
+
 **Descrizione breve:**
 > Un androide geometrico immerso in un movimento d'acqua. Il disegno combina strutture meccaniche, tratto manuale e un accento ciano che attraversa la composizione.
 
@@ -104,10 +122,9 @@ Non usare nella prima collezione merchandising lavori riconducibili a franchise/
 ## Ordine operativo
 
 1. preparare i tre file di stampa;
-2. scegliere i modelli Printful esatti;
-3. creare mockup senza pubblicare;
-4. controllare resa, colori, dimensioni e margini;
-5. definire prezzi e margini;
-6. mostrare configurazione finale per approvazione;
-7. solo dopo approvazione creare/pubblicare i prodotti;
-8. collegare Ecwid quando il catalogo sarà pronto.
+2. creare mockup Printful senza pubblicare;
+3. controllare resa, colori, dimensioni e margini;
+4. definire prezzi e margini sulla base dei costi reali del fulfillment europeo;
+5. mostrare configurazione finale per approvazione;
+6. solo dopo approvazione creare/pubblicare i prodotti;
+7. collegare Ecwid quando il catalogo sarà pronto.
